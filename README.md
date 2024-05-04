@@ -1,1 +1,1 @@
-# ping-pong
+The repository contains a prototype of the ping pong game. this is a multiplayer game implemented in the phyton language using the pygame library, the first player controls the left racket, and the second player does it with the left using the keys
